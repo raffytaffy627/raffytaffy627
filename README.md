@@ -1,4 +1,4 @@
-# Rafin Hasan
+# Hi, welcome to my github page 
 
 Computer engineering student at Austin Community College, planning to transfer to Texas A&M. I'm working toward data center and network engineering, and I learn by building things, so this is where they end up.
 
