@@ -1,24 +1,19 @@
-# Hey, I'm Rafin 👋
+# Rafin Hasan
 
-Engineering student at Austin Community College, headed for Texas A&M Computer Engineering (Cybersecurity minor). I'm building toward a career in **data center and network engineering**, one hands-on project at a time.
+Computer engineering student at Austin Community College, planning to transfer to Texas A&M. I'm working toward data center and network engineering, and I learn by building things, so this is where they end up.
 
-### 🔧 What I'm building
-- **[network-tools](https://github.com/raffytaffy627/network-tools)**: Python networking utilities (DNS lookup, port scanner, device fingerprinting)
-- **[arduino-parking-sensor](https://github.com/raffytaffy627/arduino-parking-sensor)**: ultrasonic sensor with LEDs, buzzer, and live distance readout on an Arduino Mega 2560
-- **[learning-log](https://github.com/raffytaffy627/learning-log)**: my networking notes and practice scripts
+**Currently**
+- Building: a temperature and humidity monitor on an Arduino Mega, modeled on how server rooms are monitored
+- Learning: subnetting and routing for CompTIA Network+
+- Open to: IT support and data center technician roles
 
-### 🧰 Tools & tech
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Projects**
+- [network-tools](https://github.com/raffytaffy627/network-tools): five small Python networking tools, including a subnet calculator that handles /31 and /32 edge cases and an uptime monitor that logs to CSV
+- [arduino-parking-sensor](https://github.com/raffytaffy627/arduino-parking-sensor): ultrasonic distance sensor with LED and buzzer alerts on an Arduino Mega 2560. My first hardware project.
+- [learning-log](https://github.com/raffytaffy627/learning-log): notes, practice scripts, and write-ups of bugs I've hit and how I fixed them
 
-### 📜 Certifications
-- Google IT Support Professional Certificate
-- NVIDIA: Introduction to Networking · AI Infrastructure & Operations Fundamentals
-- Basics of Cisco Networking (LearnQuest)
-- 🚧 In progress: CompTIA A+, Network+, Security+
+**Stack:** Python, C++ (Arduino), Git, Linux (Ubuntu), Windows
 
-### 📫 Connect
+**Certifications:** Google IT Support Professional · NVIDIA Introduction to Networking · NVIDIA AI Infrastructure & Operations Fundamentals · Basics of Cisco Networking · In progress: CompTIA A+, Network+, Security+
+
 [LinkedIn](https://linkedin.com/in/mahmudul-hasan-378b24283)
