@@ -8,6 +8,7 @@ Computer engineering student at Austin Community College, planning to transfer t
 - Open to: IT support and data center technician roles
 
 **Projects**
+- [arduino-pocket-pet](https://github.com/raffytaffy627/arduino-pocket-pet): open-source Tamagotchi-style virtual pet on an Arduino Mega 2560 + 1602 LCD - feed it, play with it, watch it grow up
 - [digital-logic](https://github.com/raffytaffy627/digital-logic): Verilog project building a 4-bit adder from scratch - half adder -> full adder -> ripple carry adder, each stage with its own testbench
 - [net-security-tools](https://github.com/raffytaffy627/net-security-tools): Python + scapy ARP scanner and packet sniffer for looking at my own network at the packet level
 - [sensor-data-analysis](https://github.com/raffytaffy627/sensor-data-analysis): simulates noisy ultrasonic sensor data, filters it with a moving average, and flags spikes - the signal-processing side of my parking sensor project
