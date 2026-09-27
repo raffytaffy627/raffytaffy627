@@ -3,11 +3,12 @@
 Computer engineering student at Austin Community College, planning to transfer to Texas A&M. I'm working toward data center and network engineering, and I learn by building things, so this is where they end up.
 
 **Currently**
-- Building: a temperature and humidity monitor on an Arduino Mega, modeled on how server rooms are monitored
+- Building: [purr-v](https://github.com/raffytaffy627/purr-v), my own RISC-V CPU (getting it onto a real FPGA next), plus a temperature and humidity monitor on an Arduino Mega modeled on how server rooms are monitored
 - Learning: subnetting and routing for CompTIA Network+
 - Open to: IT support and data center technician roles
 
 **Projects**
+- [purr-v](https://github.com/raffytaffy627/purr-v): my own RISC-V CPU, built from scratch in SystemVerilog :3 It's a 5-stage pipeline with branch prediction, interrupts, a UART bootloader, and hardware drivers for my ELEGOO kit parts. Tested with random differential fuzzing against a reference model, and targets a Tang Nano 9K FPGA
 - [arduino-pocket-pet](https://github.com/raffytaffy627/arduino-pocket-pet): open-source Tamagotchi-style virtual pet on an Arduino Mega 2560 + 1602 LCD - feed it, play with it, watch it grow up
 - [digital-logic](https://github.com/raffytaffy627/digital-logic): Verilog project building a 4-bit adder from scratch - half adder -> full adder -> ripple carry adder, each stage with its own testbench
 - [net-security-tools](https://github.com/raffytaffy627/net-security-tools): Python + scapy ARP scanner and packet sniffer for looking at my own network at the packet level
@@ -16,7 +17,7 @@ Computer engineering student at Austin Community College, planning to transfer t
 - [arduino-parking-sensor](https://github.com/raffytaffy627/arduino-parking-sensor): ultrasonic distance sensor with LED and buzzer alerts on an Arduino Mega 2560. My first hardware project.
 - [learning-log](https://github.com/raffytaffy627/learning-log): notes, practice scripts, and write-ups of bugs I've hit and how I fixed them
 
-**Stack:** Python, C++ (Arduino), Verilog, Git, Linux (Ubuntu), Windows
+**Stack:** Python, C++ (Arduino), C, SystemVerilog / Verilog, RISC-V, Git, Linux (Ubuntu), Windows
 
 **Certifications:** Google IT Support Professional · NVIDIA Introduction to Networking · NVIDIA AI Infrastructure & Operations Fundamentals · Basics of Cisco Networking · In progress: CompTIA A+, Network+, Security+
 
